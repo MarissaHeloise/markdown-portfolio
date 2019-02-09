@@ -1,9 +1,10 @@
-My favorite stuff:
-1. Data science
-2. Languages
-3. Yuri
-4. Music
-5. Painting
-6. Sleep
-7. Cooking
-8. Hangout with friends
+My favorite stuff| My attributes
+------ |----------------------------
+ Data science | Native Chinese Speaker
+ Languages|**Fluent** in English(**TEM8,IELTS 7.0**)
+ Yuri|Familiar with **python**,**R** basics
+ Music|Statistics Analysis Skills
+ Painting|*BA of Applied Mathematics*
+Sleep|*MSQF : master of quantitative finance*
+Cooking|**Machine learning**,**Markdown**,**Jupyter**
+Hangout with friends|**Ricequant** platform skills

@@ -17,4 +17,5 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 > This is a quote
-[GITHUB Profile](url)
+
+[GITHUB Profile](https://marissaheloise.github.io/markdown-portfolio/)
